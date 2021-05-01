@@ -1,0 +1,15 @@
+{
+  "name": "fabric-fibonacci-calculator-demo",
+  "version": "0.0.1",
+  "description": "fibonacci-calculator demo using the fabric core API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keil/fabric-fibonacci-calculator-demo.git"
+  },
+  "author": "Matthias Keil <keil@rm-keil.de> (http://matthias-keil.de)",
+  "license": "MIT"
+}
